@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: calculator
+Formal-Name: Calculator
+App-ID: com.abirshandilya.calculator.calculator
+Version: 0.0.1
+Home-page: https://abirshandilya.com/calculator
+Author: Abir Shandilya
+Author-email: abirshandilya@gmail.com
+Summary: A basic calculator beeware application
