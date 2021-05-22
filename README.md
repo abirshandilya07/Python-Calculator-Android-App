@@ -8,7 +8,7 @@ Applications made in BeeWare give the native like feel as they use the platforms
 
 So, now lets go on with the commands..
 
-First, create a virtual environment..
+#First, create a virtual environment..
 
 1.pip install virtualenv
 2.virtualenv environment_name
@@ -20,14 +20,14 @@ First, create a virtual environment..
 
 Briefcase is the tool used for developing apps in BeeWare...
 
-Now for making a project write the following commands..
+#Now for making a project write the following commands..
 
 1.cd calculator
 2.briefcase dev
 
 if this opens the application in dev mode then you are ready for deploying it on mobile
 
-Follow these commands for deploying..
+#Follow these commands for deploying..
 
 1.briefcase build android(this might take some time if its your first build)
 2.briefcase run android
