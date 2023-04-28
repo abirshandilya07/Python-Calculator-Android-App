@@ -108,6 +108,8 @@ class Calculator(toga.App):
 
     def calculate(self,widget):
         output = eval(self.input_text.value)
+        if output == "":
+            output = "ERROR!"
         self.input_text.value = output
 def main():
     return Calculator()
